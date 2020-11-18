@@ -1,0 +1,9 @@
+git add .
+git commit -m"这里面要写描述保存的内容"
+依次执行(用来保存)
+
+git log 
+查看日志
+
+git status
+查看当前状态
