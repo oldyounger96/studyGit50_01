@@ -7,3 +7,23 @@ git log
 
 git status
 查看当前状态
+
+git  config  user.email
+查看设置的邮箱
+git  config  user.name
+查看设置的用户
+(建议使用github注册的邮箱和用户名来登录.)
+
+git config --global user.email  "邮箱名"
+重新设置邮箱,直接覆盖
+git config --global user.name  "用户" 
+重新设置用户,直接覆盖
+
+git reset --hard 版本号
+版本回滚的命名
+
+git log --oneline
+查看一行类型的日志,包括版本号
+
+git reflog
+查看所有的日志,包括回滚的日志
