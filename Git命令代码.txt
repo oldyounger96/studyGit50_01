@@ -27,3 +27,25 @@ git log --oneline
 
 git reflog
 查看所有的日志,包括回滚的日志
+
+git branch 分支名
+新建分支
+
+git checkout 分支名
+切换分支
+
+git merge 分支名
+合并分支
+
+git branch -d 分支名
+删除分支
+
+git branch
+查看分支
+
+git clone 仓库地址
+克隆仓库
+
+git push
+推送到远程仓库
+
